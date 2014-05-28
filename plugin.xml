@@ -16,10 +16,12 @@
     </js-module>
 
     <platform name="android">
-        <config-file target="config.xml" parent="/*">
+        <config-file target="res/xml/config.xml" parent="/*">
             <feature name="Share">
                 <param name="android-package" value="mobi.monaca.framework.plugin.Share"/>
             </feature>
         </config-file>
+
+        <source-file src="src/android/Share.java" target-dir="src/mobi/monaca/framework/plugin" />
     </platform>
 </plugin>
