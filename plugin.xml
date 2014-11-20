@@ -5,7 +5,9 @@
     version="1.0.0">
 
     <name>Share</name>
-	<description>Share</description>
+	<description>
+        This plugin allows information sharing between applications
+    </description>
     <engines>
         <engine name="cordova" version=">=2.9.0" />
     </engines>
