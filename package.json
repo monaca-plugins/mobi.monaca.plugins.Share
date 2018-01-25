@@ -1,5 +1,5 @@
 {
-  "name": "mobi.monaca.plugins.Share",
+  "name": "monaca-plugin-share",
   "version": "1.0.0",
   "description": "This plugin allows information sharing between applications",
   "author": "Monaca Team",

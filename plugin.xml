@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="mobi.monaca.plugins.Share"
+    id="monaca-plugin-share"
     version="1.0.0">
 
     <name>Share</name>
