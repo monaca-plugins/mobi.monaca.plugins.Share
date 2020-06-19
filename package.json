@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "This plugin allows information sharing between applications",
   "author": "Monaca Team",
-  "license": "COPYRIGHT ASIAL CORPORATION",
+  "license": "Apache-2.0",
   "publishConfig": {
     "registry": "http://registry.monaca.io:4873"
   }

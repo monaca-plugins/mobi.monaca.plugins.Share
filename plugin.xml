@@ -3,7 +3,6 @@
     xmlns="http://apache.org/cordova/ns/plugins/1.0"
     id="monaca-plugin-share"
     version="1.0.0">
-
     <name>Share</name>
 	<description>
         This plugin allows information sharing between applications
@@ -11,8 +10,7 @@
     <engines>
         <engine name="cordova" version=">=2.9.0" />
     </engines>
-    <license>Asial</license>
-
+    <license>Apache 2.0</license>
     <js-module src="www/share.js" name="Share">
         <clobbers target="plugins.share" />
     </js-module>
