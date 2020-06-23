@@ -1,10 +1,10 @@
 {
   "name": "monaca-plugin-share",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This plugin allows information sharing between applications",
   "author": "Monaca Team",
   "license": "Apache-2.0",
   "publishConfig": {
-    "registry": "http://registry.monaca.io:4873"
+    "registry": "https://npm.monaca.io"
   }
 }
